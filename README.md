@@ -11,9 +11,12 @@ With an overwhelming amount of data, the challenge lies in identifying which con
 <a href="https://github.com/PriyadarshiniMaddela/Data-Analysis/blob/main/Final%20Content%20Data%20set.csv">Dataset</a>
 
 ## Process
-**Data Collection:** Gathered sample datasets containing information about content categories and their respective popularity metrics.
-**Data Preprocessing:** Cleaned and prepared the data by handling missing values, removing duplicates, and ensuring consistency across the datasets.
-**Exploratory Data Analysis (EDA):** Performed an initial examination of the data, focusing on the distribution of content categories and calculated aggregate popularity scores to uncover trends.
+**Data Collection:** 
+Gathered sample datasets containing information about content categories and their respective popularity metrics.
+**Data Preprocessing:** 
+Cleaned and prepared the data by handling missing values, removing duplicates, and ensuring consistency across the datasets.
+**Exploratory Data Analysis (EDA):** 
+Performed an initial examination of the data, focusing on the distribution of content categories and calculated aggregate popularity scores to uncover trends.
 **Visualization:** Created various visualizations such as histograms, bar charts, and pie charts to represent the distribution and popularity metrics of different content categories.
 **Analysis and Conclusion:** Analyzed the visualizations and popularity metrics to identify the top-ranking content categories, which were then presented as actionable insights for the content strategy.
 Insights
