@@ -13,15 +13,20 @@ With an overwhelming amount of data, the challenge lies in identifying which con
 ## Process
 **Data Collection:** 
 Gathered sample datasets containing information about content categories and their respective popularity metrics.
+
 **Data Preprocessing:** 
 Cleaned and prepared the data by handling missing values, removing duplicates, and ensuring consistency across the datasets.
+
 **Exploratory Data Analysis (EDA):** 
 Performed an initial examination of the data, focusing on the distribution of content categories and calculated aggregate popularity scores to uncover trends.
+
 **Visualization:** 
 Created various visualizations such as histograms, bar charts, and pie charts to represent the distribution and popularity metrics of different content categories.
+
 **Analysis and Conclusion:** 
 Analyzed the visualizations and popularity metrics to identify the top-ranking content categories, which were then presented as actionable insights for the content strategy.
 Insights
+
 ## Analysis
 The five most popular content categories identified were Animals, Science, Healthy Eating, Technology, and Food. These categories showed that people enjoy "real-life" and "tactile" content the most, with an emphasis on practical and relatable topics.
 ## Key Insight
